@@ -1,0 +1,9 @@
+Building NineCoin
+
+See doc/readme-qt.rst for instructions on building NineCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of NineCoin.
+
+See doc/build-*.txt for instructions on building NineCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of NineCoin.
